@@ -3,7 +3,7 @@ package pl.snowy;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlRootElement;
-//psikuS2
+//psikuS34
 
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlRootElement
