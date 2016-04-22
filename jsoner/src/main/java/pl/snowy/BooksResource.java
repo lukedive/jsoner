@@ -10,7 +10,7 @@ public class BooksResource {
 
 	@GET
 	public String getBook() {
-		return "Ptaki polskie";
+		return "Ptaki polskie i zagraniczne";
 	}
 
 	@GET
