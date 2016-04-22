@@ -21,5 +21,5 @@ public class Book {
 	public Book() {
 		super();
 	}
-
+//psikusów nie chcemy
 }
